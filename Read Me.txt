@@ -1,0 +1,34 @@
+Com212 Introduction To Web Technologies
+ANIL HACIBABA
+
+When I started the Project, I first determined what I wanted to do.When I thought about it, I decided to make a Bmw sheet.
+
+First, I created a menu on my web page.I got this menu from Bootstrap.After using the Navbar, I edited the menu.I finished the menu.
+Then I applied the grid system in Layout.So I divided the web page into 3 sections.I created a Div clas container.
+
+I decided to create a tables in Chapter One.And here I created a table of Bmw's most preferred cars.I created this table six < tr>.
+I created three <td> from each <TR>.I created the table as Models-Fuel Type-Engine Power-Price List.
+And in these tables I wrote 3 Series-5 Series-x1 series-x2 series as a 4 model car.
+I would say that people prefer these models most because of the price.That's how I finished Chapter One.
+
+When we got to the second part, I decided to graphically.I made the graphic with script.I entered eleven model values on the Script side.
+And I've divided these values into two groups.I have separated it into gas and diesel fuel type.This chart is the price list of 
+the 2020 model bmw.In this way, when you press the diesel option in the graphic, it directly selects all diesel models.
+The same is true in gas.That's how I ended Chapter Two.
+
+In the third part, I did it as a question and answer.I made it using collapsible.I've prepared three questions. 
+These questions relate to bmw car models.I have prepared the topics for these questions as Xdrive, security and performance.
+That's how I ended chapter three.
+
+I added two marquees after I took care of them.It's what I used in the first marquee.
+One < marquee behavior="alternate"> goes to its destination and returns.
+It's what I used in the second marquee.the second marquee was arranged as a right-solo marquee with a direct <marquee>.
+Besides, the writing stops when you press it.
+
+The last thing I put on the web page was the watch.I made this watch as a script.I set the clock in three episodes.
+I did it in hours-minutes-seconds.And then with the if code (am.pm) I made the adjustment.That's how I ended the clock.
+
+I did my homework in a mobile-appropriate way.So I got the menu and layout from Bootstrap.Because mobile needs to be affordable.
+When we do this, the menu-table-chart and question-answer also appear in a mobile way.And that's how I end this project.
+
+
