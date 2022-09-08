@@ -1,2 +1,0 @@
-# JavaScript
-Introduction To Web
